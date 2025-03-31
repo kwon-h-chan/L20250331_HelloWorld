@@ -18,5 +18,7 @@ int main()
 
 	cout << B << endl;
 	
+	cout << "Hello World" << endl;
+	
 	return 0;
 }
